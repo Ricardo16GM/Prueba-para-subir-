@@ -1,0 +1,28 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+header {
+   background: #a86500;
+   width: 100%;
+   height: 80px;
+   display: flex;
+   justify-content: space-around;
+}
+
+nav ul {
+   display: flex;
+   justify-content: space-around;
+}
+
+body {
+   background: #cfcfcf;
+}
+
+main {
+   width: 80%;
+   margin: 0 auto;
+   margin-top: 3rem;
+}
